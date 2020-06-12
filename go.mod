@@ -1,4 +1,4 @@
-module github.com/hairyhenderson/caddyprom
+module github.com/jopereira/caddyprom
 
 go 1.14
 
